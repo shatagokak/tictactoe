@@ -1,0 +1,13 @@
+{
+  "base_url": "/",
+  "hostname": "localhost",
+  "password": false,
+  "pid": 33279,
+  "port": 8888,
+  "root_dir": "/home/admin1/Desktop/tybcs204",
+  "secure": false,
+  "sock": "",
+  "token": "2834ed0287982c9f0da3e4bef265b1bceb2614e6dcc87bff",
+  "url": "http://localhost:8888/",
+  "version": "2.14.2"
+}

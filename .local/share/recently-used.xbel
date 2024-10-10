@@ -1,0 +1,478 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/admin1/Desktop/Nobo%20Android%20prog.%20ODT/Set%20A.odt" added="2024-01-16T09:15:34.460926Z" modified="2024-08-24T10:56:03.953359Z" visited="2024-01-16T09:15:34.460927Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.oasis.opendocument.text"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 7.3" exec="&apos;soffice %u&apos;" modified="2024-08-24T10:56:03.953358Z" count="34"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;libreoffice --writer %U&apos;" modified="2024-02-06T10:56:53.443136Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/admin1/Desktop/Dsc_DataSets/HeightWeight.csv" added="2024-07-29T08:40:40.541500Z" modified="2024-08-24T08:54:20.652787Z" visited="2024-07-29T08:40:40.541501Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/csv"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;jupyter-lab %f&apos;" modified="2024-08-24T08:54:20.652783Z" count="13"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/admin1/Desktop/Tybcs24/DS%20ass1.odt" added="2024-07-29T10:08:02.469965Z" modified="2024-09-09T09:29:44.048971Z" visited="2024-07-29T10:08:02.469965Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.oasis.opendocument.text"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 7.3" exec="&apos;soffice %u&apos;" modified="2024-09-09T09:29:44.048970Z" count="29"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;libreoffice --writer %U&apos;" modified="2024-09-09T09:29:38.668557Z" count="6"/>
+          <bookmark:application name="snap.firefox" exec="&apos;gio open %u&apos;" modified="2024-07-29T10:21:30.106027Z" count="2"/>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="&apos;xdg-desktop-portal-gnome %u&apos;" modified="2024-07-29T10:21:30.111627Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/admin1/Desktop/Tybcs24/DS%20ass2.odt" added="2024-07-29T10:14:20.898282Z" modified="2024-08-24T08:51:07.765246Z" visited="2024-07-29T10:14:20.898283Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.oasis.opendocument.text"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 7.3" exec="&apos;soffice %u&apos;" modified="2024-08-24T08:51:07.765245Z" count="28"/>
+          <bookmark:application name="snap.firefox" exec="&apos;gio open %u&apos;" modified="2024-07-29T11:06:00.978591Z" count="1"/>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="&apos;xdg-desktop-portal-gnome %u&apos;" modified="2024-07-29T11:06:00.984919Z" count="1"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;libreoffice --writer %U&apos;" modified="2024-08-24T08:51:06.159606Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/admin1/Desktop/tybcs231/Assignment%201.odt" added="2024-08-03T09:58:49.433228Z" modified="2024-08-10T09:17:39.550639Z" visited="2024-08-03T09:58:49.433228Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.oasis.opendocument.text"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 7.3" exec="&apos;soffice %u&apos;" modified="2024-08-10T09:17:39.550638Z" count="11"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/admin1/Downloads/dsc%20ODT.odt" added="2024-08-10T08:43:36.009113Z" modified="2024-08-10T10:38:24.860282Z" visited="2024-08-10T08:43:36.009113Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.oasis.opendocument.text"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 7.3" exec="&apos;soffice %u&apos;" modified="2024-08-10T10:38:24.860281Z" count="9"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/admin1/Desktop/tybcs231/Assignment2" added="2024-08-10T08:55:45.858987Z" modified="2024-08-10T08:55:45.858990Z" visited="2024-08-10T08:55:45.858988Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 7.3" exec="&apos;soffice %u&apos;" modified="2024-08-10T08:55:45.858989Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/admin1/Desktop/tybcs231/Assignment2.odt" added="2024-08-10T08:55:46.279201Z" modified="2024-08-10T11:14:55.773840Z" visited="2024-08-10T08:55:46.279201Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.oasis.opendocument.text"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 7.3" exec="&apos;soffice %u&apos;" modified="2024-08-10T11:14:55.773839Z" count="33"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/admin1/Downloads/Assignment%202(1).odt" added="2024-08-10T09:13:42.584876Z" modified="2024-08-10T09:50:23.130883Z" visited="2024-08-10T09:13:42.584877Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.oasis.opendocument.text"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 7.3" exec="&apos;soffice %u&apos;" modified="2024-08-10T09:50:23.130882Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/admin1/Downloads/hehe(2).odt" added="2024-08-10T09:22:01.556994Z" modified="2024-08-10T09:47:35.777421Z" visited="2024-08-10T09:22:01.556995Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.oasis.opendocument.text"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 7.3" exec="&apos;soffice %u&apos;" modified="2024-08-10T09:47:35.777419Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/admin1/Downloads/Assignment%202(2).odt" added="2024-08-10T09:55:15.425783Z" modified="2024-08-10T09:55:41.266937Z" visited="2024-08-10T09:55:15.425784Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.oasis.opendocument.text"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 7.3" exec="&apos;soffice %u&apos;" modified="2024-08-10T09:55:41.266935Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/admin1/Downloads/Assignment%202(3).odt" added="2024-08-10T09:55:47.244391Z" modified="2024-08-10T09:55:56.571391Z" visited="2024-08-10T09:55:47.244392Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.oasis.opendocument.text"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 7.3" exec="&apos;soffice %u&apos;" modified="2024-08-10T09:55:56.571389Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/admin1/Downloads/Assignment%202(4).odt" added="2024-08-10T10:00:25.334548Z" modified="2024-08-10T10:38:27.274873Z" visited="2024-08-10T10:00:25.334549Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.oasis.opendocument.text"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 7.3" exec="&apos;soffice %u&apos;" modified="2024-08-10T10:38:27.274872Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/admin1/Desktop/tybcs231/mislinious" added="2024-08-10T11:06:31.313310Z" modified="2024-08-10T11:06:31.313316Z" visited="2024-08-10T11:06:31.313311Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 7.3" exec="&apos;soffice %u&apos;" modified="2024-08-10T11:06:31.313314Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/admin1/Desktop/tybcs231/mislinious.odt" added="2024-08-10T11:06:31.727407Z" modified="2024-08-24T10:27:48.456525Z" visited="2024-08-10T11:06:31.727408Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.oasis.opendocument.text"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 7.3" exec="&apos;soffice %u&apos;" modified="2024-08-24T10:27:48.456524Z" count="62"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;libreoffice --writer %U&apos;" modified="2024-08-24T09:21:14.259576Z" count="6"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/admin1/Desktop/tybcs231/Miscellaneous%20DS" added="2024-08-12T09:18:12.452034Z" modified="2024-08-12T09:18:12.452039Z" visited="2024-08-12T09:18:12.452034Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 7.3" exec="&apos;soffice %u&apos;" modified="2024-08-12T09:18:12.452037Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/admin1/Desktop/tybcs231/Miscellaneous%20DS.odt" added="2024-08-12T09:18:12.922101Z" modified="2024-08-24T09:21:01.124017Z" visited="2024-08-12T09:18:12.922102Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.oasis.opendocument.text"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 7.3" exec="&apos;soffice %u&apos;" modified="2024-08-24T09:21:01.124016Z" count="11"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;libreoffice --writer %U&apos;" modified="2024-08-24T09:21:00.216607Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/admin1/Downloads/mis.odt" added="2024-08-12T10:32:14.530670Z" modified="2024-08-12T11:04:15.294074Z" visited="2024-08-12T10:32:14.530671Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.oasis.opendocument.text"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 7.3" exec="&apos;soffice %u&apos;" modified="2024-08-12T11:04:15.294072Z" count="9"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/admin1/Downloads/Miscellanous.odt" added="2024-08-12T10:51:48.152970Z" modified="2024-08-12T11:04:05.164939Z" visited="2024-08-12T10:51:48.152971Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.oasis.opendocument.text"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 7.3" exec="&apos;soffice %u&apos;" modified="2024-08-12T11:04:05.164937Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/admin1/Desktop/tybcs204/Miscellanous.odt" added="2024-08-23T08:59:38.924031Z" modified="2024-08-24T08:55:21.552227Z" visited="2024-08-23T08:59:38.924033Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.oasis.opendocument.text"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;libreoffice --writer %U&apos;" modified="2024-08-23T10:03:23.796704Z" count="3"/>
+          <bookmark:application name="LibreOffice 7.3" exec="&apos;soffice %u&apos;" modified="2024-08-24T08:55:21.552224Z" count="8"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/admin1/Desktop/tybcs204/Untitled%201" added="2024-08-23T10:02:19.983995Z" modified="2024-08-23T10:02:19.983998Z" visited="2024-08-23T10:02:19.983995Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 7.3" exec="&apos;soffice %u&apos;" modified="2024-08-23T10:02:19.983996Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/admin1/Desktop/tybcs204/Untitled%201.odt" added="2024-08-23T10:02:20.399610Z" modified="2024-08-23T10:02:22.302895Z" visited="2024-08-23T10:02:20.399611Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.oasis.opendocument.text"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 7.3" exec="&apos;soffice %u&apos;" modified="2024-08-23T10:02:22.302894Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/admin1/Desktop/tybcs204/Ass-3.SET%20A.odt" added="2024-08-23T10:08:35.467896Z" modified="2024-08-24T11:13:57.190483Z" visited="2024-08-23T10:08:35.467896Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.oasis.opendocument.text"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 7.3" exec="&apos;soffice %u&apos;" modified="2024-08-24T11:13:57.190482Z" count="11"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;libreoffice --writer %U&apos;" modified="2024-08-23T10:41:14.965419Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/admin1/Downloads/Data.CSV" added="2024-08-23T10:33:07.853291Z" modified="2024-08-23T10:35:47.363326Z" visited="2024-08-23T10:33:07.853292Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/csv"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 7.3" exec="&apos;soffice %u&apos;" modified="2024-08-23T10:35:47.363324Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/admin1/Downloads/Data.CSV.ods" added="2024-08-23T10:33:08.263440Z" modified="2024-08-23T10:35:51.845429Z" visited="2024-08-23T10:33:08.263440Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.oasis.opendocument.spreadsheet"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 7.3" exec="&apos;soffice %u&apos;" modified="2024-08-23T10:35:51.845428Z" count="41"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;libreoffice --calc %U&apos;" modified="2024-08-23T10:35:18.087187Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/admin1/Downloads/Data.CSV.csv" added="2024-08-23T10:35:51.845436Z" modified="2024-08-24T10:57:16.699059Z" visited="2024-08-23T10:35:51.845436Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/csv"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 7.3" exec="&apos;soffice %u&apos;" modified="2024-08-24T10:57:16.699058Z" count="5"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;jupyter-lab %f&apos;" modified="2024-08-23T10:36:00.854986Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/admin1/Desktop/tybcs231/Miscellanous" added="2024-08-24T10:27:44.602144Z" modified="2024-08-24T10:27:44.602147Z" visited="2024-08-24T10:27:44.602144Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 7.3" exec="&apos;soffice %u&apos;" modified="2024-08-24T10:27:44.602145Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/admin1/Desktop/tybcs231/Miscellanous.odt" added="2024-08-24T10:27:48.654790Z" modified="2024-08-24T11:14:01.630691Z" visited="2024-08-24T10:27:48.654791Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.oasis.opendocument.text"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 7.3" exec="&apos;soffice %u&apos;" modified="2024-08-24T11:14:01.630689Z" count="9"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;libreoffice --writer %U&apos;" modified="2024-08-24T10:28:12.739407Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/admin1/Desktop/tybcs231/Data.CSV" added="2024-08-24T10:57:11.675825Z" modified="2024-08-24T10:57:11.675828Z" visited="2024-08-24T10:57:11.675825Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/csv"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 7.3" exec="&apos;soffice %u&apos;" modified="2024-08-24T10:57:11.675826Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/admin1/Desktop/tybcs231/Data.CSV.csv" added="2024-08-24T10:57:16.699069Z" modified="2024-08-24T11:01:54.023582Z" visited="2024-08-24T10:57:16.699069Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/csv"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 7.3" exec="&apos;soffice %u&apos;" modified="2024-08-24T11:01:54.023580Z" count="5"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;jupyter-lab %f&apos;" modified="2024-08-24T11:00:55.347939Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/admin1/Desktop/tybcs231/Data" added="2024-08-24T11:01:53.628164Z" modified="2024-08-24T11:01:53.628167Z" visited="2024-08-24T11:01:53.628164Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 7.3" exec="&apos;soffice %u&apos;" modified="2024-08-24T11:01:53.628166Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/admin1/Desktop/tybcs231/Data.csv" added="2024-08-24T11:01:54.023586Z" modified="2024-08-24T11:13:57.702201Z" visited="2024-08-24T11:01:54.023586Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/csv"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 7.3" exec="&apos;soffice %u&apos;" modified="2024-08-24T11:13:57.702200Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/admin1/Desktop/tybcs231/Assignment%203.odt" added="2024-08-24T11:13:51.133987Z" modified="2024-08-24T11:13:53.165348Z" visited="2024-08-24T11:13:51.133988Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.oasis.opendocument.text"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 7.3" exec="&apos;soffice %u&apos;" modified="2024-08-24T11:13:53.165347Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/admin1/Desktop/Factorial/local.properties" added="2024-08-26T08:36:41.332458Z" modified="2024-08-26T08:36:41.332461Z" visited="2024-08-26T08:36:41.332459Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2024-08-26T08:36:41.332460Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/admin1/Desktop/Data.csv" added="2024-08-26T09:07:15.372492Z" modified="2024-08-26T09:08:22.975835Z" visited="2024-08-26T09:07:15.372493Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/csv"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 7.3" exec="&apos;soffice %u&apos;" modified="2024-08-26T09:08:22.975834Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/admin1/Desktop/ty58/Data.csv" added="2024-09-02T09:14:42.330018Z" modified="2024-09-02T10:25:52.831044Z" visited="2024-09-02T09:14:42.330019Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/csv"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;jupyter-lab %f&apos;" modified="2024-09-02T10:25:52.831040Z" count="4"/>
+          <bookmark:application name="LibreOffice 7.3" exec="&apos;soffice %u&apos;" modified="2024-09-02T10:25:44.587732Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/admin1/Desktop/ty58/ass3Aq3" added="2024-09-02T09:18:38.348416Z" modified="2024-09-02T09:18:38.348419Z" visited="2024-09-02T09:18:38.348416Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 7.3" exec="&apos;soffice %u&apos;" modified="2024-09-02T09:18:38.348417Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/admin1/Desktop/ty58/ass3Aq3.odt" added="2024-09-02T09:18:38.799487Z" modified="2024-09-02T11:30:46.007706Z" visited="2024-09-02T09:18:38.799487Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.oasis.opendocument.text"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 7.3" exec="&apos;soffice %u&apos;" modified="2024-09-02T11:30:46.007704Z" count="9"/>
+          <bookmark:application name="snap.firefox" exec="&apos;gio open %u&apos;" modified="2024-09-02T10:28:48.974056Z" count="2"/>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="&apos;xdg-desktop-portal-gnome %u&apos;" modified="2024-09-02T10:28:48.979699Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/admin1/Desktop/ty58/winequality-red.csv" added="2024-09-02T09:29:41.480362Z" modified="2024-09-02T09:29:41.480372Z" visited="2024-09-02T09:29:41.480364Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/csv"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;jupyter-lab %f&apos;" modified="2024-09-02T09:29:41.480365Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/admin1/Desktop/ty58/ass4" added="2024-09-02T11:11:13.629890Z" modified="2024-09-02T11:11:13.629892Z" visited="2024-09-02T11:11:13.629890Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 7.3" exec="&apos;soffice %u&apos;" modified="2024-09-02T11:11:13.629891Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/admin1/Desktop/ty58/ass4.odt" added="2024-09-02T11:11:14.055435Z" modified="2024-09-02T11:30:45.669250Z" visited="2024-09-02T11:11:14.055436Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.oasis.opendocument.text"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 7.3" exec="&apos;soffice %u&apos;" modified="2024-09-02T11:30:45.669249Z" count="3"/>
+          <bookmark:application name="snap.firefox" exec="&apos;gio open %u&apos;" modified="2024-09-02T11:11:32.741669Z" count="1"/>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="&apos;xdg-desktop-portal-gnome %u&apos;" modified="2024-09-02T11:11:32.747196Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/admin1/Desktop/Dsc_DataSets/Iris.csv" added="2024-09-09T09:30:02.934464Z" modified="2024-09-09T09:30:02.934471Z" visited="2024-09-09T09:30:02.934465Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/csv"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;jupyter-lab %f&apos;" modified="2024-09-09T09:30:02.934468Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/admin1/HP%20USB20FD/Ass4(19).odt" added="2024-09-09T10:22:33.461323Z" modified="2024-09-09T10:23:16.925986Z" visited="2024-09-09T10:22:33.461325Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.oasis.opendocument.text"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;libreoffice --writer %U&apos;" modified="2024-09-09T10:22:33.461329Z" count="1"/>
+          <bookmark:application name="LibreOffice 7.3" exec="&apos;soffice %u&apos;" modified="2024-09-09T10:23:16.925986Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/admin1/TRANSCEND/misellaneous2.odt" added="2024-09-09T11:12:15.574518Z" modified="2024-09-09T11:12:16.633989Z" visited="2024-09-09T11:12:15.574524Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.oasis.opendocument.text"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;libreoffice --writer %U&apos;" modified="2024-09-09T11:12:16.090592Z" count="3"/>
+          <bookmark:application name="LibreOffice 7.3" exec="&apos;soffice %u&apos;" modified="2024-09-09T11:12:16.633987Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/admin1/Desktop/Tybcs24/misellaneous2.odt" added="2024-09-09T11:12:37.518881Z" modified="2024-09-09T11:12:37.881517Z" visited="2024-09-09T11:12:37.518882Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.oasis.opendocument.text"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 7.3" exec="&apos;soffice %u&apos;" modified="2024-09-09T11:12:37.881515Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

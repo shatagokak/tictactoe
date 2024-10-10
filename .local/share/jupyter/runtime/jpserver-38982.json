@@ -1,0 +1,13 @@
+{
+  "base_url": "/",
+  "hostname": "localhost",
+  "password": false,
+  "pid": 38982,
+  "port": 8889,
+  "root_dir": "/home/admin1/Downloads",
+  "secure": false,
+  "sock": "",
+  "token": "731c83d2cd031cfc65ae36a238b945601ff8fca4c92994db",
+  "url": "http://localhost:8889/",
+  "version": "2.14.2"
+}

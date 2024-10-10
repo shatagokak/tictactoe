@@ -1,0 +1,13 @@
+{
+  "base_url": "/",
+  "hostname": "localhost",
+  "password": false,
+  "pid": 4119,
+  "port": 8889,
+  "root_dir": "/home/admin1/Desktop/Dsc_DataSets",
+  "secure": false,
+  "sock": "",
+  "token": "67fdbebe82f1cdd449f4e7f6c6ad364de4bb441e22bf4bf4",
+  "url": "http://localhost:8889/",
+  "version": "2.14.2"
+}

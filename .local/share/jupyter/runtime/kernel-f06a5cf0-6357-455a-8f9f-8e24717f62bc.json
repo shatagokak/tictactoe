@@ -1,0 +1,13 @@
+{
+  "shell_port": 45545,
+  "iopub_port": 43229,
+  "stdin_port": 44763,
+  "control_port": 40209,
+  "hb_port": 59423,
+  "ip": "127.0.0.1",
+  "key": "8d75efaa-588e9262ccfd8beee65e4ce3",
+  "transport": "tcp",
+  "signature_scheme": "hmac-sha256",
+  "kernel_name": "python3",
+  "jupyter_session": "/home/admin1/Desktop/DS_SETA_A1.ipynb"
+}

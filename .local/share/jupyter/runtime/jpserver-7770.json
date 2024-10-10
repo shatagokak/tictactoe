@@ -1,0 +1,13 @@
+{
+  "base_url": "/",
+  "hostname": "localhost",
+  "password": false,
+  "pid": 7770,
+  "port": 8889,
+  "root_dir": "/home/admin1/Desktop",
+  "secure": false,
+  "sock": "",
+  "token": "db8db8e84c1bd4e84f80a0a6d0bc7c0a13c9e00995e7277e",
+  "url": "http://localhost:8889/",
+  "version": "2.14.2"
+}

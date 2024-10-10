@@ -1,0 +1,13 @@
+{
+  "base_url": "/",
+  "hostname": "localhost",
+  "password": false,
+  "pid": 8363,
+  "port": 8891,
+  "root_dir": "/home/admin1/Desktop/ty58",
+  "secure": false,
+  "sock": "",
+  "token": "cd97fc995bbfae369c034e0a6085f331f9e1da432e8b4c05",
+  "url": "http://localhost:8891/",
+  "version": "2.14.2"
+}

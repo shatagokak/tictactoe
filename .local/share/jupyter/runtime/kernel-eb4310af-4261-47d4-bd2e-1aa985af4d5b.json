@@ -1,0 +1,13 @@
+{
+  "shell_port": 42881,
+  "iopub_port": 36227,
+  "stdin_port": 35435,
+  "control_port": 36429,
+  "hb_port": 46919,
+  "ip": "127.0.0.1",
+  "key": "6ec0b864-93dda003da167ca15565682e",
+  "transport": "tcp",
+  "signature_scheme": "hmac-sha256",
+  "kernel_name": "python3",
+  "jupyter_session": "/home/admin1/Desktop/tybcs231/Untitled.ipynb"
+}

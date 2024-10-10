@@ -1,0 +1,13 @@
+{
+  "shell_port": 55117,
+  "iopub_port": 42069,
+  "stdin_port": 53975,
+  "control_port": 35859,
+  "hb_port": 42829,
+  "ip": "127.0.0.1",
+  "key": "c87fc4d6-eeab6ace78181f8160f3ed6c",
+  "transport": "tcp",
+  "signature_scheme": "hmac-sha256",
+  "kernel_name": "python3",
+  "jupyter_session": "/home/admin1/Desktop/Dsc_DataSets/Untitled4.ipynb"
+}
